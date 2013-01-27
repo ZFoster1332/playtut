@@ -1,4 +1,7 @@
 This is your new Play 2.0 application
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This is my implementation of the Scala Play 2.0 tutorial.
+
+http://www.playframework.org/documentation/2.1-RC2/ScalaTodoList
+
